@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ab425c617b5f949fc1dbd9e4a8d866f",
+    "revision": "9822711386703ca71e46160c1bb980f6",
     "url": "/languages-game/index.html"
   },
   {
-    "revision": "b5e855bcc0563381dc1c",
+    "revision": "9ee519e7dbdae9427f6e",
     "url": "/languages-game/static/css/main.9ad2a4f8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/languages-game/static/js/2.8ba609bb.chunk.js.LICENSE"
   },
   {
-    "revision": "b5e855bcc0563381dc1c",
-    "url": "/languages-game/static/js/main.a6317838.chunk.js"
+    "revision": "9ee519e7dbdae9427f6e",
+    "url": "/languages-game/static/js/main.b8e1bbd5.chunk.js"
   },
   {
     "revision": "d599937866474333e201",

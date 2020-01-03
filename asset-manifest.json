@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/languages-game/static/css/main.9ad2a4f8.chunk.css",
-    "main.js": "/languages-game/static/js/main.a6317838.chunk.js",
-    "main.js.map": "/languages-game/static/js/main.a6317838.chunk.js.map",
+    "main.js": "/languages-game/static/js/main.b8e1bbd5.chunk.js",
+    "main.js.map": "/languages-game/static/js/main.b8e1bbd5.chunk.js.map",
     "runtime-main.js": "/languages-game/static/js/runtime-main.80616f54.js",
     "runtime-main.js.map": "/languages-game/static/js/runtime-main.80616f54.js.map",
     "static/js/2.8ba609bb.chunk.js": "/languages-game/static/js/2.8ba609bb.chunk.js",
     "static/js/2.8ba609bb.chunk.js.map": "/languages-game/static/js/2.8ba609bb.chunk.js.map",
     "index.html": "/languages-game/index.html",
-    "precache-manifest.0ecb26bf115fdf265e8fdefe8a6e8fa6.js": "/languages-game/precache-manifest.0ecb26bf115fdf265e8fdefe8a6e8fa6.js",
+    "precache-manifest.45b22b6c2fb864b385a232951e23ce15.js": "/languages-game/precache-manifest.45b22b6c2fb864b385a232951e23ce15.js",
     "service-worker.js": "/languages-game/service-worker.js",
     "static/css/main.9ad2a4f8.chunk.css.map": "/languages-game/static/css/main.9ad2a4f8.chunk.css.map",
     "static/js/2.8ba609bb.chunk.js.LICENSE": "/languages-game/static/js/2.8ba609bb.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.80616f54.js",
     "static/js/2.8ba609bb.chunk.js",
     "static/css/main.9ad2a4f8.chunk.css",
-    "static/js/main.a6317838.chunk.js"
+    "static/js/main.b8e1bbd5.chunk.js"
   ]
 }
